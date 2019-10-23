@@ -1,0 +1,211 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-16 18:55+0100\n"
+"PO-Revision-Date: 2019-06-16 18:57+0100\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: ../../../bin/ice:136
+#, python-brace-format
+msgid "Unable to parse URL, {0}"
+msgstr "Невозможно разобрать URL, {0}"
+
+#: ../../../bin/ice:141
+#, python-brace-format
+msgid "Unable to find favicon for, {0}"
+msgstr "Невозможно найти значок для, {0}"
+
+#: ../../../bin/ice:196
+#, python-brace-format
+msgid "Unable to find URL. Is it valid? {0}"
+msgstr "Невозможно найти URL. Он действующий? {0}"
+
+#: ../../../bin/ice:224 ../../../bin/ice:659
+msgid "Accessories"
+msgstr "Accessories"
+
+#: ../../../bin/ice:226 ../../../bin/ice:659
+msgid "Games"
+msgstr "Игры"
+
+#: ../../../bin/ice:228 ../../../bin/ice:659
+msgid "Graphics"
+msgstr "Графика"
+
+#: ../../../bin/ice:230 ../../../bin/ice:659
+msgid "Internet"
+msgstr "Интернет"
+
+#: ../../../bin/ice:232 ../../../bin/ice:660
+msgid "Office"
+msgstr "Офис"
+
+#: ../../../bin/ice:234 ../../../bin/ice:660
+msgid "Programming"
+msgstr "Программирование"
+
+#: ../../../bin/ice:236 ../../../bin/ice:660
+msgid "Multimedia"
+msgstr "Мультимедиа"
+
+#: ../../../bin/ice:238 ../../../bin/ice:660
+#, fuzzy
+msgid "System"
+msgstr "Система"
+
+#: ../../../bin/ice:267
+msgid "ERROR: An unknown browser selection error has occurred."
+msgstr "ОШИБКА: произошла неизвестная ошибка выбора браузера."
+
+#: ../../../bin/ice:403
+msgid "Please choose an icon."
+msgstr "Пожалуйста, выберите значок."
+
+#: ../../../bin/ice:442
+msgid "Browser Error"
+msgstr "Ошибка браузера"
+
+#: ../../../bin/ice:446
+msgid "test"
+msgstr "проверка"
+
+#: ../../../bin/ice:449
+msgid "<b>Warning: No Suitable Browser Detected</b>"
+msgstr "<b>Предупреждение: Подходящий браузер не обнаружен</b>"
+
+#: ../../../bin/ice:450 ../../../bin/ice:501
+msgid ""
+"The name of the SSB will cause an existing SSB to\n"
+"be overwritten. To prevent this, change a letter in\n"
+"the name. Continue anyway?"
+msgstr ""
+"Название SSB приведет к тому, что существующий SSB\n"
+"будет перезаписан. Чтобы предотвратить это, измените букву в\n"
+"названии. Хотите продолжить?"
+
+#: ../../../bin/ice:451
+msgid ""
+"Ice requires a system installation of either Google\n"
+"Chrome or Chromium in order to function. Please\n"
+"install at least one in order to create SSBs."
+msgstr ""
+"Ice требует установки в систему Google Chrome\n"
+"или Chromium, чтобы функционировать. пожалуйста\n"
+"установите один из этих браузеров для создания SSB."
+
+#: ../../../bin/ice:453 ../../../bin/ice:759 ../../../bin/ice:814
+msgid "Close"
+msgstr "Выход"
+
+#: ../../../bin/ice:495
+msgid "Duplication Error"
+msgstr "Ошибка дублирования"
+
+#: ../../../bin/ice:500
+msgid "<b>Warning: File Duplication Error</b>"
+msgstr "<b>Предупреждение: ошибка дублирования файлов</b>"
+
+#: ../../../bin/ice:503 ../../../bin/ice:542
+msgid "OK"
+msgstr "ОК"
+
+#: ../../../bin/ice:505 ../../../bin/ice:544
+msgid "Cancel"
+msgstr "Отмена"
+
+#: ../../../bin/ice:534
+msgid "Address Error"
+msgstr "Ошибка адреса"
+
+#: ../../../bin/ice:539
+msgid "<b>Warning: HTTP or URL Error</b>"
+msgstr "<b>Предупреждение: ошибка HTTP или URL</b>"
+
+#: ../../../bin/ice:540
+msgid ""
+"An error with the web address has been detected.\n"
+"This is possibly the site being down or unavailable\n"
+"right now. Continue anyway?"
+msgstr ""
+"Обнаружена ошибка с веб-адресом. \n"
+"Возможно, сайт недоступен прямо сейчас.\n"
+"Продолжить в любом случае?"
+
+#: ../../../bin/ice:572
+msgid "Name Error"
+msgstr "Ошибка имени"
+
+#: ../../../bin/ice:577
+msgid "<b>Error: No Application Name Entered.</b>"
+msgstr "Ошибка: Не введено название приложения."
+
+#: ../../../bin/ice:578
+msgid "Please enter an application name to continue."
+msgstr "Введите название приложения чтобы продолжить."
+
+#: ../../../bin/ice:612
+msgid "ERROR: An address error has occurred."
+msgstr "ОШИБКА: произошла ошибка адреса."
+
+#: ../../../bin/ice:615
+msgid "ERROR: An unknown error has occurred."
+msgstr "ОШИБКА: произошла неизвестная ошибка."
+
+#: ../../../bin/ice:651
+msgid "<b>Welcome to Ice, a simple SSB manager.</b>"
+msgstr "<b>Добро пожаловать в Ice, простой менеджер облачных приложений (SSB)</b>"
+
+#: ../../../bin/ice:654
+msgid "Name the application"
+msgstr "Название"
+
+#: ../../../bin/ice:657
+msgid "Enter web address"
+msgstr "Web-адрес"
+
+#: ../../../bin/ice:661
+msgid "Where in the menu?"
+msgstr "Категория в меню?"
+
+#: ../../../bin/ice:687
+msgid "Select an icon"
+msgstr "Выбор значка"
+
+#: ../../../bin/ice:689
+msgid "Use site favicon"
+msgstr "Использовать иконку сайта"
+
+#: ../../../bin/ice:753
+msgid ""
+" Create the SSB with an isolated browser profile (Note: Firefox SSB's are "
+"always isolated)"
+msgstr ""
+" Создание SSB с изолированным профилем браузера (Примечание: Firefox SSB "
+"всегда изолирован)"
+
+#: ../../../bin/ice:757
+msgid "Apply"
+msgstr "Применить"
+
+#: ../../../bin/ice:782
+msgid "Create"
+msgstr "Создание"
+
+#: ../../../bin/ice:812 ../../../bin/ice:828
+msgid "Remove"
+msgstr "Удаление"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Son et vidéo"

@@ -1,0 +1,14 @@
+Package: ice
+Version: 6.0.7
+Architecture: all
+Original-Maintainer: Mark Greaves (PCNeSpec) <mark@pcnetspec.co.uk>
+Maintainer: Alexander Krass <a.krass@krass-os.ru>
+Installed-Size: 5326
+Depends: python3, python3-gi, python3-requests, python3-bs4
+Recommends: chromium-browser
+Section: net
+Priority: optional
+Description: Webapp integration with Peppermint Ice
+ Front end for building single site browsers using
+ Chromium, Chrome, Vivaldi, or Firefox as a backend,
+ allowing custom menu integration.
